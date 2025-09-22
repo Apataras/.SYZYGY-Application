@@ -8,7 +8,7 @@ Wir haben Kotlin für den Client und Java für den Server verwendet.
 ## DOMjudgeSolver
 Für Programmieraufgaben an der Uni wurde teils das automatische Codeüberprüfungssystem DOMjudge verwendet. Man konnte dort zwar mit neueren Java Versionen entwickeln aber man konnte nur 1 (größenbegrenzte) Datei hochladen.
 Da ich zu der Zeit mehr mit Java Modulen herumspielen wollte, habe ich mir ein kleines Programm geschrieben, dass es mir erlaubte lokal in mehreren Dateien mit Module support Probleme zulösen und zum Hochladen
-alles in eine Datei komprimiert und die Module zur Laufzeit lädt. Ein Beispiel output kann in DOMjudgeBuildTool/generated gefunden werden.
+alles in eine Datei komprimiert und die Module zur Laufzeit lädt. Ein Beispiel output kann in [DOMjudgeBuildTool/generated](DOMjudgeSolver/DOMjudgeBuildTool/generated/Solution.java) gefunden werden.
 
 ## Eine Auswahl meiner Profile auf (kompetitiven) Programmierwebsites
 - CodeChef zirutok https://www.codechef.com/users/zirutok
