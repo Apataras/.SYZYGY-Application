@@ -5,6 +5,11 @@ Das in meinem Anschreiben erwähnte Softwaregrundprojekt kann im Repository [Apa
 Hierbei ist zubeachten, dass der Code sich nicht im master Branch befindet, sondern in dem jeweiligen client/server Branch.
 Wir haben Kotlin für den Client und Java für den Server verwendet.
 
+## DOMjudgeSolver
+Für Programmieraufgaben an der Uni wurde teils das automatische Codeüberprüfungssystem DOMjudge verwendet. Man konnte dort zwar mit neueren Java Versionen entwickeln aber man konnte nur 1 (größenbegrenzte) Datei hochladen.
+Da ich zu der Zeit mehr mit Java Modulen herumspielen wollte, habe ich mir ein kleines Programm geschrieben, dass es mir erlaubte lokal in mehreren Dateien mit Module support Probleme zulösen und zum Hochladen
+alles in eine Datei komprimiert und die Module zur Laufzeit lädt. Ein Beispiel output kann in DOMjudgeBuildTool/generated gefunden werden.
+
 ## Eine Auswahl meiner Profile auf (kompetitiven) Programmierwebsites
 - CodeChef zirutok https://www.codechef.com/users/zirutok
 - LeetCode Bahanior https://leetcode.com/u/Bahanior/
