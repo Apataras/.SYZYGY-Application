@@ -10,6 +10,9 @@ Für Programmieraufgaben an der Uni wurde teils das automatische Codeüberprüfu
 Da ich zu der Zeit mehr mit Java Modulen herumspielen wollte, habe ich mir ein kleines Programm geschrieben, dass es mir erlaubte lokal in mehreren Dateien mit Module support Probleme zulösen und zum Hochladen
 alles in eine Datei komprimiert und die Module zur Laufzeit lädt. Ein Beispiel output kann in [DOMjudgeBuildTool/generated](DOMjudgeSolver/DOMjudgeBuildTool/generated/Solution.java) gefunden werden.
 
+## Advent Of Code 2024
+Meine Lösungen zu dem Advent Of Code 2024. Die Lösungen zu den ersten Tagen sind in Zig geschrieben und später in C++.
+
 ## Eine Auswahl meiner Profile auf (kompetitiven) Programmierwebsites
 - CodeChef zirutok https://www.codechef.com/users/zirutok
 - LeetCode Bahanior https://leetcode.com/u/Bahanior/
